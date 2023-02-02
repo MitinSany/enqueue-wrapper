@@ -1,6 +1,6 @@
 <?php
 
-namespace Nikitakodo\EnqueueWrapper;
+namespace MitinSany\EnqueueWrapper;
 
 interface ProcessorConfigInterface
 {

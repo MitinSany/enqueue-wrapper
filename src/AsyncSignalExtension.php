@@ -1,6 +1,6 @@
 <?php
 
-namespace Nikitakodo\EnqueueWrapper;
+namespace MitinSany\EnqueueWrapper;
 
 use Enqueue\Consumption\Context\Start;
 use Enqueue\Consumption\Extension\SignalExtension;
