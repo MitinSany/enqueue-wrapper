@@ -1,5 +1,5 @@
 {
-  "name": "MitinSany/enqueue-wrapper",
+  "name": "mitinsany/enqueue-wrapper",
   "description": "simple enqueue wrapper for quick start with amqp-ext",
   "type": "library",
   "license": "GPL-3.0-or-later",
