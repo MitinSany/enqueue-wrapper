@@ -5,13 +5,13 @@
   "license": "GPL-3.0-or-later",
   "authors": [
     {
-      "name": "MitinSany",
-      "email": "mitinoft@gmail.com"
+      "name": "nikitakodo",
+      "email": "nikita.kodo@gmail.com"
     }
   ],
   "minimum-stability": "dev",
   "autoload": {
-    "psr-4": { "MitinSany\\EnqueueWrapper\\": "src" },
+    "psr-4": { "Nikitakodo\\EnqueueWrapper\\": "src" },
     "exclude-from-classmap": ["/example/"]
 
   },

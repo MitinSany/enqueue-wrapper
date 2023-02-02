@@ -1,6 +1,6 @@
 <?php
 
-namespace MitinSany\EnqueueWrapper;
+namespace Nikitakodo\EnqueueWrapper;
 
 use Enqueue\AmqpExt\AmqpProducer;
 use Enqueue\AmqpTools\DelayStrategy;
@@ -10,7 +10,7 @@ use Interop\Queue\Context;
 use Interop\Queue\Exception;
 use Interop\Queue\Exception\DeliveryDelayNotSupportedException;
 use Interop\Queue\Message;
-use MitinSany\EnqueueWrapper\Message as WrapperMessage;
+use Nikitakodo\EnqueueWrapper\Message as WrapperMessage;
 
 abstract class AbstractMessageProcessor implements MessageProcessorInterface
 {
