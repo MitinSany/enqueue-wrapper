@@ -19,7 +19,6 @@
     "php": "^7.4|^8.0",
     "ext-amqp": "*",
     "ext-json": "*",
-    "ext-signal_handler": "*",
     "enqueue/enqueue": "^0.10",
     "enqueue/amqp-ext": "^0.10",
     "enqueue/amqp-tools": "^0.10"
